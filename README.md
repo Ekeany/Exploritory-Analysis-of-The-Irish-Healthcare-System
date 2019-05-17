@@ -17,5 +17,5 @@ The final aggregated data set contained multidimensional data about the number o
 The first plot questions the current accessibility of hospitals in Ireland, by examining the spatial distribution of public hospitals on a county level as a function of county population. The data clearly indicates that the distribution of both hospitals and population are not equal throughout the country. This is common knowledge; as people are moving from rural areas to urban areas in a process called urbanization. (Fig,1) also displays a few problematic areas where the number of people per hospital is large. The counties most affected are Donegal, Tipperary, Kerry and Kildare, Monaghan and Leitrim. As the majority of these counties are within a reasonable distance to medical hubs such as Limerick, Galway, Dublin and Cork there problems are mitigated, however Donegal, Leitrim and Monaghan are somewhat isolated from the rest of the country exacerbating the pressure on other local services.
 
 <p align="center">
-  <img width="460" height="300" src="/Images_/image1/PNG">
+  <img width="460" height="300" src="/Images_/image1.PNG">
 </p>
