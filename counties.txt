@@ -1,0 +1,44 @@
+Hospital_Name, County, County_Number
+Childrens University Hospital Temple Street, Dublin, 6
+Our Lady's Children's Hospital Crumlin, Dublin, 6
+Tallaght Children's Hospital, Dublin, 6
+Naas General Hospital, Kildare, 9
+Midland Regional Hospital Portlaoise, Laoighis,11
+Midland Regional Hospital Tullamore, Offaly, 19
+St. James's Hospital. Dublin, 6
+Coombe Women and Infants University Hospital, Dublin, 6
+Tallaght Hospital St. Columcille's Hospital, Dublin, 6
+Midland Regional Hospital Mullingar, West Meath, 24
+Our Lady's Hospital Navan, Meath, 17
+St. Luke's General Hospital Kilkenny, Kilkeny, 10
+Wexford General Hospital, Wexford, 25
+Mater Misericordiae University Hospital, Dublin, 6
+St. Vincent's University Hospital,Dublin,6
+St. Michael's Hospital Dun Laoghaire, Dublin, 6
+Royal Victoria Eye and Ear Hospital, Dublin, 6
+Cappagh National Orthopaedic Hospital, Dublin, 6
+Connolly Hospital, Dublin,6 
+Louth County Hospital, Louth, 15
+Cavan General Hospital, Cavan,2
+Our Lady of Lourdes Hospital Drogheda, Louth, 15
+Beaumont Hospital, Dublin, 6
+Rotunda Hospital, Dublin, 6
+Letterkenny General Hospital, Donegal, 5
+Sligo Regional Hospital, Sligo,21
+Galway University Hospital, Galway, 7
+Mayo General Hospital,Mayo, 7
+Roscommon Hospital, Roscommon, 20
+Portiuncula Hospital, Galway,7
+University Hospital Waterford,Waterford,23
+South Tipperary General Hospital, Tipperary, 22
+Mallow General Hospital, Cork, 4
+Bantry General Hospital, Cork, 4
+Cork University Hospital, Cork,4
+Cork University Maternity Hospital,Cork, 4
+Kerry General Hospital, Kerry, 8
+Mercy University Hospital,Cork,4
+South Infirmary Victoria University Hospital, Cork,4
+University Hospital Limerick, Limerick, 13
+Croom Orthopaedic Hospital, Limerick,13
+Nenagh Hospital Ennis Hospital, Clare, 3
+St. John's Hospital Limerick, Limerick, 13
